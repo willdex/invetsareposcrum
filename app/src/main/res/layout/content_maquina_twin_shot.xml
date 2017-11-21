@@ -2624,7 +2624,7 @@
                              <TextView
                                  style="@style/titulo_1"
                                  android:layout_width="wrap_content"
-                                 android:text="IMAGENES DEL JEFE DE PLANTA:"
+                                 android:text="IMAGEN DEL RESPONSABLE:"
                                  />
 
                          </TableRow>

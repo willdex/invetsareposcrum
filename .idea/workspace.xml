@@ -22,256 +22,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_camara.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_camara.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-18-15-49-33-811.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-18-15-49-33-811.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-18-15-50-19-296.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-18-15-50-19-296.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-11-57-03-316.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-11-57-03-316.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-12-18-16-206.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-12-18-16-206.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-12-27-11-375.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-12-27-11-375.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-12-27-12-614.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-12-27-12-614.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-33-30-038.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-33-30-038.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-33-36-344.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-33-36-344.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-33-43-613.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-33-43-613.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-34-11-156.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-14-34-11-156.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-26-41-178.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-26-41-178.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-34-25-429.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-34-25-429.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-36-46-933.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-36-46-933.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-38-04-474.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-38-04-474.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-39-52-843.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-39-52-843.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-40-42-144.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-40-42-144.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-41-16-729.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-41-16-729.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-42-18-724.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-42-18-724.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-44-13-892.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-44-13-892.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-45-54-914.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-45-54-914.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-46-21-560.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-46-21-560.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-46-46-932.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-46-46-932.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-47-09-925.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-16-47-09-925.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-17-59-11-092.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-17-59-11-092.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-00-04-774.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-00-04-774.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-01-21-513.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-01-21-513.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-03-13-069.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-03-13-069.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-05-13-386.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-05-13-386.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-10-17-969.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-10-17-969.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-12-14-767.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-12-14-767.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-13-09-283.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-13-09-283.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-21-13-649.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-21-13-649.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-26-00-751.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-14-18-26-00-751.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-14-54-57-297.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-14-54-57-297.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-14-56-37-591.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-14-56-37-591.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-14-57-15-971.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-14-57-15-971.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-15-42-49-302.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-15-42-49-302.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-08-54-151.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-08-54-151.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-11-20-593.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-11-20-593.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-29-23-368.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-29-23-368.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-29-26-060.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-29-26-060.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-30-26-611.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-16-30-26-611.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-17-15-13-28-722.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-17-15-13-28-722.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-17-17-12-43-099.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-17-17-12-43-099.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-32-54-855.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-32-54-855.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-33-00-950.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-33-00-950.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-33-29-773.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-33-29-773.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-36-25-326.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-36-25-326.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-38-48-987.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-38-48-987.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-51-00-686.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-51-00-686.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-53-35-306.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-21-18-53-35-306.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-22-11-33-14-848.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-22-11-33-14-848.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-17-15-452.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-17-15-452.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-17-22-430.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-17-22-430.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-42-06-734.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-42-06-734.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-48-53-240.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-48-53-240.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-50-18-828.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-11-50-18-828.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-14-54-34-061.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-23-14-54-34-061.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-03-29-310.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-03-29-310.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-03-35-298.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-03-35-298.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-39-20-612.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-39-20-612.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-47-26-266.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-15-47-26-266.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-16-08-34-287.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-16-08-34-287.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-16-52-41-539.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-16-52-41-539.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-17-12-12-466.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-17-12-12-466.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-17-44-54-713.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-17-44-54-713.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-17-51-49-805.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-24-17-51-49-805.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-11-42-19-933.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-11-42-19-933.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-11-45-43-554.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-11-45-43-554.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-12-20-39-944.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-12-20-39-944.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-12-20-54-098.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-12-20-54-098.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-14-22-32-249.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-14-22-32-249.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-04-25-047.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-04-25-047.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-14-20-612.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-14-20-612.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-24-30-883.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-24-30-883.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-27-19-961.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-27-19-961.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-34-15-357.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-34-15-357.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-34-17-848.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-34-17-848.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-35-03-293.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-35-03-293.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-36-11-000.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-16-36-11-000.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-23-07-393.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-23-07-393.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-31-42-091.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-31-42-091.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-31-43-217.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-31-43-217.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-32-15-981.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-32-15-981.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-38-19-878.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-38-19-878.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-40-25-126.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-25-17-40-25-126.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-16-53-23-200.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-16-53-23-200.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-16-53-29-252.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-16-53-29-252.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-16-55-07-522.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-16-55-07-522.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-17-17-14-593.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-17-17-14-593.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-17-33-35-636.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-28-17-33-35-636.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-14-04-13-239.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-14-04-13-239.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-15-25-33-843.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-15-25-33-843.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-18-35-49-868.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-18-35-49-868.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-19-11-26-743.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-19-11-26-743.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-19-12-14-468.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-19-12-14-468.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-19-13-29-471.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-19-13-29-471.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-30-14-40-42-938.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-30-14-40-42-938.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-21-08-508.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-21-08-508.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-28-02-840.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-28-02-840.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-30-30-835.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-30-30-835.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-33-45-247.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-33-45-247.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-34-58-603.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-34-58-603.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-35-22-978.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-35-22-978.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-41-11-592.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-41-11-592.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-46-24-922.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-46-24-922.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-52-51-770.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-52-51-770.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-53-32-372.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-53-32-372.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-54-34-623.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-54-34-623.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-55-39-911.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-14-55-39-911.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-15-29-30-663.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-31-15-29-30-663.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-11-26-43-190.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-11-26-43-190.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-11-35-33-549.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-11-35-33-549.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-12-14-51-453.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-12-14-51-453.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-12-33-55-465.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-01-12-33-55-465.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-37-30-400.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-37-30-400.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-41-48-193.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-41-48-193.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-49-38-601.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-49-38-601.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-49-53-189.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-49-53-189.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-56-44-520.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-14-56-44-520.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-15-20-40-274.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-15-20-40-274.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-17-28-34-131.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-17-28-34-131.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-17-33-58-611.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-17-33-58-611.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-17-41-35-340.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-04-17-41-35-340.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-06-36-016.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-06-36-016.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-16-26-916.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-16-26-916.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-39-11-568.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-39-11-568.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-57-11-276.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-15-57-11-276.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-15-40-638.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-15-40-638.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-18-27-796.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-18-27-796.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-19-35-457.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-19-35-457.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-22-01-293.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-16-22-01-293.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-00-51-975.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-00-51-975.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-10-22-117.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-10-22-117.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-11-50-886.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-11-50-886.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-15-25-585.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-15-25-585.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-16-28-713.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-16-28-713.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-16-55-602.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-16-55-602.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-18-51-368.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-18-51-368.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-18-54-387.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-18-54-387.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-19-03-313.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-19-03-313.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-20-26-107.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-20-26-107.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-22-29-121.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-22-29-121.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-25-40-135.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-25-40-135.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-25-41-451.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-25-41-451.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-25-58-553.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-25-58-553.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-27-01-442.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-07-17-27-01-442.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-35-01-621.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-35-01-621.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-41-24-068.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-41-24-068.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-44-40-438.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-44-40-438.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-51-14-267.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-14-51-14-267.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-05-45-359.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-05-45-359.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-18-34-681.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-18-34-681.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-22-29-907.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-22-29-907.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-33-03-978.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-15-33-03-978.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-16-49-11-430.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-16-49-11-430.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-16-52-30-235.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-16-52-30-235.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-16-57-35-177.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-16-57-35-177.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-17-03-32-289.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-17-03-32-289.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-17-05-25-980.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-17-05-25-980.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-17-12-42-078.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-08-17-12-42-078.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-06-19-572.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-06-19-572.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-06-26-171.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-06-26-171.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-07-47-619.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-07-47-619.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-11-28-987.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-11-28-987.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-17-50-822.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-11-17-17-50-822.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-12-04-08-349.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-12-04-08-349.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-12-04-14-858.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-12-04-14-858.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-35-11-359.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-35-11-359.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-37-47-753.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-37-47-753.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-39-58-959.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-39-58-959.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-40-19-667.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-40-19-667.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-40-34-219.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-40-34-219.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-55-49-884.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-55-49-884.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-56-22-142.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-14-56-22-142.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-01-00-739.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-01-00-739.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-06-13-569.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-06-13-569.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-06-26-933.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-06-26-933.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-06-34-569.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-15-06-34-569.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-16-14-53-899.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-16-14-53-899.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-16-17-52-525.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-12-16-17-52-525.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-09-14-15-37-17-702.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-14-15-37-17-702.rawproto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_adapter_vacunadores.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_adapter_vacunadores.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_de_datos/SQLite.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_de_datos/SQLite.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Menu_principal.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Menu_principal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/Dato.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/Dato.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/clsDetalle_accion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/clsDetalle_accion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/clsSistema_integral.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/clsSistema_integral.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/Detalle_Hoja_verificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/Detalle_Hoja_verificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/Main_hoja_verificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/Main_hoja_verificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/Item_servicio_mantenimiento.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/Item_servicio_mantenimiento.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/Detalle_spravac.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/Detalle_spravac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/MaquinaSpravac.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/MaquinaSpravac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/twin_shot/Detalle_twin_shot.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/twin_shot/Detalle_twin_shot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/twin_shot/MaquinaTwinShot.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/twin_shot/MaquinaTwinShot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/zootec/Detalle_zootec.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/zootec/Detalle_zootec.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/zootec/Formulario_zootec.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/zootec/Formulario_zootec.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/Detalle_sistema_integral.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/Detalle_sistema_integral.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/Item_sistema_integral.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/Item_sistema_integral.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/SistemaIntegralMonitoreo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/SistemaIntegralMonitoreo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_boton.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_boton.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_boton_invertido.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_boton_invertido.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_tabla.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_tabla.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bt_normal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bt_normal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bt_presionado.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bt_presionado.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_sistema_integral.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_sistema_integral.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_spravac.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_spravac.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_twin_shot.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_twin_shot.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_zootec.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_zootec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_formulario_zootec.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_formulario_zootec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_hoja_de_verificacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_hoja_de_verificacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_hoja_verificacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_hoja_verificacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_maquina_spravac.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_maquina_spravac.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_maquina_twin_shot.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_maquina_twin_shot.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_principal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_principal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sistema_integral_monitoreo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sistema_integral_monitoreo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/animacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/animacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_sistema_integral.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_sistema_integral.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_spravac.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_spravac.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_twin_shot.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_twin_shot.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_zootec.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_detalle_zootec.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_formulario_zootec.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_formulario_zootec.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_hoja_de_verificacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_hoja_de_verificacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main_hoja_verificacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main_hoja_verificacion.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_spravac.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_spravac.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_twin_shot.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_twin_shot.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_principal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_principal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_sistema_integral_monitoreo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_sistema_integral_monitoreo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_lista_empleados.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_lista_empleados.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_direcionales.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_direcionales.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/lista_empleados.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/lista_empleados.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/mensaje_ok.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/mensaje_ok.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/progress_dialogo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/progress_dialogo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_formulario.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_formulario.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hs_err_pid5780.log" afterPath="$PROJECT_DIR$/hs_err_pid5780.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/replay_pid5780.log" afterPath="$PROJECT_DIR$/replay_pid5780.log" />
     </list>
     <ignored path="Invetsa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -305,53 +62,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SistemaIntegralMonitoreo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/SistemaIntegralMonitoreo.java">
+      <file leaf-file-name="content_hoja_de_verificacion.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_hoja_de_verificacion.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17160">
-              <caret line="1194" column="113" selection-start-line="1194" selection-start-column="106" selection-end-line="1194" selection-end-column="113" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content_maquina_spravac.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_maquina_spravac.xml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="11235">
-              <caret line="749" column="28" selection-start-line="749" selection-start-column="28" selection-end-line="749" selection-end-column="28" />
+            <state relative-caret-position="25020">
+              <caret line="1668" column="16" selection-start-line="1668" selection-start-column="16" selection-end-line="1668" selection-end-column="16" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer2">
+          <provider editor-type-id="android-designer2">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content_sistema_integral_monitoreo.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_sistema_integral_monitoreo.xml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HojaDeVerificacion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24300">
-              <caret line="1692" column="9" selection-start-line="1692" selection-start-column="9" selection-end-line="1692" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
           </provider>
         </entry>
       </file>
@@ -361,6 +81,39 @@
             <state relative-caret-position="1905">
               <caret line="127" column="55" selection-start-line="127" selection-start-column="55" selection-end-line="127" selection-end-column="55" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HojaDeVerificacion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="1919" column="87" selection-start-line="1919" selection-start-column="87" selection-end-line="1919" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompoundButton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/widget/CompoundButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/widget/TextView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56250">
+              <caret line="4011" column="0" selection-start-line="4011" selection-start-column="0" selection-end-line="4011" selection-end-column="0" />
+              <folding>
+                <element signature="e#144898#144899#0" expanded="true" />
+                <element signature="e#144933#144934#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2414,16 +2167,16 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/SistemaIntegralMonitoreo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_de_datos/SQLite.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_sistema_integral_monitoreo.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/twin_shot/MaquinaTwinShot.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_twin_shot.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/MaquinaSpravac.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/zootec/Formulario_zootec.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_formulario_zootec.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_hoja_de_verificacion.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_formulario_zootec.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_spravac.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_maquina_twin_shot.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_sistema_integral_monitoreo.xml" />
       </list>
     </option>
   </component>
@@ -2457,8 +2210,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2647,7 +2403,55 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="servicio_mantenimiento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spravac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invetsa" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invetsa" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="hoja_verificacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invetsa" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invetsa" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Base_de_datos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2664,9 +2468,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3051,7 +2852,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.62092626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34305316" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21136364" sideWeight="0.58833617" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3082,32 +2883,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="286" />
+      <option name="time" value="289" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/org/json/JSONArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="576" column="0" selection-start-line="576" selection-start-column="0" selection-end-line="576" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/os/Looper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/os/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="733" column="0" selection-start-line="733" selection-start-column="0" selection-end-line="733" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_zootec.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -3153,14 +2933,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1845">
           <caret line="123" column="58" selection-start-line="123" selection-start-column="58" selection-end-line="123" selection-end-column="58" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/clase/clsEmpresa.java">
@@ -3210,16 +2990,6 @@
         <state relative-caret-position="5325">
           <caret line="355" column="1" selection-start-line="355" selection-start-column="1" selection-end-line="355" selection-end-column="1" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu_principal.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_menu_principal.xml">
@@ -3376,13 +3146,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_de_datos/SQLite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3285">
-          <caret line="222" column="46" selection-start-line="222" selection-start-column="46" selection-end-line="222" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/Detalle_Hoja_verificacion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11040">
@@ -3404,13 +3167,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/MaquinaSpravac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="744" column="14" selection-start-line="744" selection-start-column="14" selection-end-line="744" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/zootec/Formulario_zootec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13965">
@@ -3418,24 +3174,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_maquina_twin_shot.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu_principal.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="2190" column="71" selection-start-line="2190" selection-start-column="71" selection-end-line="2190" selection-end-column="71" />
+        <state relative-caret-position="345">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_formulario_zootec.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="48525">
-          <caret line="3235" column="43" selection-start-line="3235" selection-start-column="43" selection-end-line="3235" selection-end-column="43" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/Base_de_datos/SQLite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="184" column="50" selection-start-line="184" selection-start-column="50" selection-end-line="184" selection-end-column="50" />
+          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
@@ -3446,56 +3201,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_formulario_zootec.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24300">
-          <caret line="1692" column="9" selection-start-line="1692" selection-start-column="9" selection-end-line="1692" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="290">
+          <caret line="3538" column="60" selection-start-line="3538" selection-start-column="60" selection-end-line="3538" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/servicio_mantenimiento/spravac/MaquinaSpravac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="744" column="14" selection-start-line="744" selection-start-column="14" selection-end-line="744" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_hoja_de_verificacion.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="1447" column="20" selection-start-line="1447" selection-start-column="20" selection-end-line="1447" selection-end-column="20" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_maquina_spravac.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="2361" column="52" selection-start-line="2361" selection-start-column="52" selection-end-line="2361" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_maquina_twin_shot.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="2626" column="69" selection-start-line="2626" selection-start-column="69" selection-end-line="2626" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_sistema_integral_monitoreo.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="2475" column="64" selection-start-line="2475" selection-start-column="64" selection-end-line="2475" selection-end-column="64" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/sistema_integral_monitoreo/SistemaIntegralMonitoreo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17160">
-          <caret line="1194" column="113" selection-start-line="1194" selection-start-column="106" selection-end-line="1194" selection-end-column="113" />
+        <state relative-caret-position="196">
+          <caret line="1469" column="26" selection-start-line="1469" selection-start-column="23" selection-end-line="1469" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/widget/TextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56250">
+          <caret line="4011" column="0" selection-start-line="4011" selection-start-column="0" selection-end-line="4011" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#144898#144899#0" expanded="true" />
+            <element signature="e#144933#144934#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_maquina_spravac.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="11235">
-          <caret line="749" column="28" selection-start-line="749" selection-start-column="28" selection-end-line="749" selection-end-column="28" />
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/widget/CompoundButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-25/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18675" column="0" selection-start-line="18675" selection-start-column="0" selection-end-line="18675" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_hoja_de_verificacion.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25020">
+          <caret line="1668" column="16" selection-start-line="1668" selection-start-column="16" selection-end-line="1668" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhatcorp/invetsa/invetsa/hoja_verificacion/HojaDeVerificacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="1919" column="87" selection-start-line="1919" selection-start-column="87" selection-end-line="1919" selection-end-column="87" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

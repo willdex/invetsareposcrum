@@ -1568,68 +1568,68 @@
                                         android:layout_width="60px"
                                         android:layout_height="wrap_content"
                                         android:gravity="center"
-                                        style="@style/TxtSIM"/>
+                                        style="@style/TxtSIMT"/>
                                     <TextView
                                         android:text="2"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="3"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="4"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="5"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="6"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="7"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="8"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="9"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM"
+                                        style="@style/TxtSIMT"
                                         />
                                     <TextView
                                         android:text="10"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="11"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM"/>
+                                        style="@style/TxtSIMT"/>
                                     <TextView
                                         android:text="12"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="13"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                     <TextView
                                         android:text="14"
                                         android:layout_width="60px"
@@ -1639,7 +1639,7 @@
                                         android:text="15"
                                         android:layout_width="60px"
                                         android:gravity="center"
-                                        style="@style/TxtSIM" />
+                                        style="@style/TxtSIMT" />
                                 </TableRow>
                             </LinearLayout>
 
@@ -2487,7 +2487,7 @@
                     <TextView
                         style="@style/titulo_1"
                         android:layout_width="wrap_content"
-                        android:text="IMAGENES DEL JEFE DE PLANTA:"
+                        android:text="IMAGEN DEL RESPONSABLE:"
                         />
 
                 </TableRow>
